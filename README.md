@@ -14,9 +14,9 @@ Juliet, une femme de Neandertal.
 Hamlet, le petit frere de Babet.
 
 
-Act I: The weird introduction.
+         Act I: The weird introduction.
 
-Scene I: Nonpositive handshake.
+         Scene I: Nonpositive handshake.
 
 [Enter Romeo and Juliet]
 
