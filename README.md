@@ -28,7 +28,7 @@ En l'état, ça ne _me_ parle pas vraiment. Pourrez-vous déceler l'erreur et, s
 
      Thou tiny furry disgusting villainous flower!
      Thou art as fat-kidneyed as the difference between a bottomless purple half-witted horrid oozing smelly villainous mistletoe and the sum of my chihuahua and thyself!
-     Speak your mind!
+     Speak thy mind!
  
     [Exit Juliet] 
 
