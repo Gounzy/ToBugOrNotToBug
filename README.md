@@ -7,10 +7,9 @@ En l'état, ça ne _me_ parle pas vraiment. Pourrez-vous déceler l'erreur et, s
 
     The Challenge Day Secret Program.
 
+    
     Romeo, le dernier samourai.
-
     Juliet, une femme de Neandertal.
-
     Hamlet, le petit frere de Babet.
 
 
@@ -18,19 +17,19 @@ En l'état, ça ne _me_ parle pas vraiment. Pourrez-vous déceler l'erreur et, s
 
     Scene I: Nonpositive handshake.
 
-[Enter Romeo and Juliet]
+    [Enter Romeo and Juliet]
 
-Romeo:
+    Romeo:
 
- You stupid smelly bottomless tree!
- You are as noble as the sum of the sum of the devil and a beautiful green rural warm proud amazing angel and thyself.
- Speak your mind!
+        You stupid smelly bottomless tree!
+        You are as noble as the sum of the sum of the devil and a beautiful green rural warm proud amazing angel and thyself.
+        Speak your mind!
 
-Juliet:
+    Juliet:
 
- Thou tiny furry disgusting villainous flower!
- Thou art as fat-kidneyed as the difference between a bottomless purple half-witted horrid oozing smelly villainous mistletoe and the sum of my chihuahua and thyself!
- Speak your mind!
+     Thou tiny furry disgusting villainous flower!
+     Thou art as fat-kidneyed as the difference between a bottomless purple half-witted horrid oozing smelly villainous mistletoe and the sum of my chihuahua and thyself!
+     Speak your mind!
  
 [Exit Juliet] 
 
