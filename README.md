@@ -11,9 +11,10 @@ Romeo, le dernier samourai.
 Juliet, une femme de Neandertal.
 Hamlet, le petit frere de Babet.
 
-                    Act I: The weird introduction.
 
-                    Scene I: Nonpositive handshake.
+Act I: The weird introduction.
+
+Scene I: Nonpositive handshake.
 
 [Enter Romeo and Juliet]
 
@@ -29,9 +30,9 @@ Juliet:
  
 [Exit Juliet] 
 
-                    Act II: The even weirder end.
+Act II: The even weirder end.
 
-                    Scene I: The true couple.
+Scene I: The true couple.
 
 [Enter Hamlet]
 
@@ -55,12 +56,12 @@ Hamlet:
 Romeo: 
  If not, let us proceed to scene III. 
 
-					Scene II: The kiss. 
+Scene II: The kiss. 
+
 Romeo:
  Speak your mind! You huge joy.
 
-
-                    Scene III: The final moment.
+Scene III: The final moment.
 
 Hamlet:
  Thou art as lovely as a rose.
