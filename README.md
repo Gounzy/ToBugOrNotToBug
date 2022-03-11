@@ -5,13 +5,13 @@ En l'état, ça ne _me_ parle pas vraiment. Pourrez-vous déceler l'erreur et, s
 
 --- 
 
-The Challenge Day Secret Program.
+    The Challenge Day Secret Program.
 
-Romeo, le dernier samourai.
+    Romeo, le dernier samourai.
 
-Juliet, une femme de Neandertal.
+    Juliet, une femme de Neandertal.
 
-Hamlet, le petit frere de Babet.
+    Hamlet, le petit frere de Babet.
 
 
     Act I: The weird introduction.
@@ -34,9 +34,9 @@ Juliet:
  
 [Exit Juliet] 
 
-Act II: The even weirder end.
+    Act II: The even weirder end.
 
-Scene I: The true couple.
+    Scene I: The true couple.
 
 [Enter Hamlet]
 
@@ -66,13 +66,13 @@ Romeo:
  
  If not, let us proceed to scene III. 
 
-Scene II: The kiss. 
+    Scene II: The kiss. 
 
 Romeo:
  
  Speak your mind! You huge joy.
 
-Scene III: The final moment.
+    Scene III: The final moment.
 
 Hamlet:
  
