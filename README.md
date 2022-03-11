@@ -8,9 +8,7 @@ En l'état, ça ne _me_ parle pas vraiment. Pourrez-vous déceler l'erreur et, s
 The Challenge Day Secret Program.
 
 Romeo, le dernier samourai.
-
 Juliet, une femme de Neandertal.
-
 Hamlet, le petit frere de Babet.
 
 
